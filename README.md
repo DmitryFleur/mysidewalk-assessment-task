@@ -6,7 +6,7 @@ Prepare a program that accepts a file or path and creates or returns a file with
 Sort first by the numeric value of any leading number (2 < 10 < 343) and then alphabetically for the rest of the string.
 
 ## To run the script:
-No extra libraries were used, just pure Python v3.11. Just run the script:
+No extra libraries were used, just pure Python v3.11. To run the script:
 
 ```bash
 python main.py ./data/example-list.txt ./data/sample-output.txt
